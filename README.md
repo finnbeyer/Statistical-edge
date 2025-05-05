@@ -44,4 +44,4 @@
 > ⚠️ It should not be used as a basis for trading advice.  
 > ❌ This information is not intended for resale or marketing purposes.
 > 
-> This project is a private data analysis project and is also only for private usage. This marks a base for a research paper i currently create. Will be released soon.
+> This project is a private data analysis project intended solely for personal use. It serves as the foundation for a research paper I am currently working on, which will be published soon. This repository offers a glimpse into the work underlying the paper. It will be finalized and restructured by summer.
